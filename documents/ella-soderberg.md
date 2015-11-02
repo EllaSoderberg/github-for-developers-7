@@ -1,6 +1,7 @@
-# My Bio 
+# My Bio
 ##  - **Ella**
 ##  - _Stockholm_, Sweden
 ##  - Pizza
 ##  - Programming
 ##  - green
+##  - Running
